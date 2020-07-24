@@ -18,22 +18,6 @@ Several models were developed and tuned to find the proper combination of model/
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
 |**state**|*object*|sat2017|The states that have representatives who have participated in the exams.|
-|**sat2017_participation_rate**|*float*|sat2017|The percentage of eligible state representatives completing the SAT in 2017.|
-|**sat2017_reading_writing**|*int*|sat2017|The corresponding state's average score on the reading/writing section of the 2017 SAT|
-|**sat2017_math**|*int*|sat2017|The corresponding state's average score on the mathematics section of the 2017 SAT.| 
-|**sat2017_total**|*int*|sat2017|The corresponding state's average score on the combined reading/writing and mathematics sections of the 2017 SAT.|
-|**act2017_participation_rate**|*float*|act2017|The percentage of eligible state representatives completing the ACT in 2017.|
-|**act2017_english**|*float*|act2017|The corresponding state's average score on the english section of the 2017 ACT|
-|**act2017_math**|*float*|act2017|The corresponding state's average score on the mathematics section of the 2017 ACT|
-|**act2017_reading**|*float*|act2017|The corresponding state's average score on the reading section of the 2017 ACT|
-|**act2017_science**|*float*|act2017|The corresponding state's average score on the science section of the 2017 ACT|
-|**act2017_composite**|*float*|act2017|The corresponding state's average score on the combined english, math, reading and science sections of the 2017 ACT|
-|**act2018_composite**|*float*|act2018|The corresponding state's average score on the combined english, math, reading and science sections of the 2018 ACT|
-|**act2018_participation_rate**|*float*|act2018|The percentage of eligible state representatives completing the ACT in 2018.|
-|**sat2018_participation_rate**|*float*|sat2018|The percentage of eligible state representatives completing the SAT in 2018.|
-|**sat2018_reading_writing**|*int*|sat2018|The corresponding state's average score on the reading/writing section of the 2018 SAT|
-|**sat2018_math**|*int*|sat2018|The corresponding state's average score on the mathematics section of the 2018 SAT.| 
-|**sat2018_total**|*int*|sat2018|The corresponding state's average score on the combined reading/writing and mathematics sections of the 2018 SAT.|
 
 
 # Conclusion
