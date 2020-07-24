@@ -32,7 +32,8 @@ This program is specifically designed to be viewed by adults and therefore may b
 Through thorough analysis of the SAT & ACT data as well as independent research, I have concluded that the most effective way to increase participation rate for the SAT is to lobby local governments for its mandate and funding.
 
 ### Contents:
-- [Introduction](#Overview)
+-<a href = "http://localhost:8888/notebooks/projects/project_3/CV%20Sub-Reddit%20Classifier.ipynb#top">Introduction</a> 
+[Introduction](#Overview)
 - [2018 Data Import and Cleaning](#2018-Data-Import-and-Cleaning)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Visualization](#Visualize-the-data)
