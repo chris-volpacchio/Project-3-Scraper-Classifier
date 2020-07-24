@@ -33,7 +33,7 @@ Through thorough analysis of the SAT & ACT data as well as independent research,
 
 ### Contents:
 - <a href = "http://localhost:8888/notebooks/projects/project_3/CV%20Sub-Reddit%20Classifier.ipynb#top">Introduction</a> 
-- <a href = "http://localhost:8888/notebooks/projects/project_3/CV%20Sub-Reddit%20Classifier.ipynb#test">Test</a> 
+- <a href = "https://git.generalassemb.ly/chrisvolpacchio/project_3/blob/master/CV%20Sub-Reddit%20Classifier.ipynb#test">Test</a> 
 [2018 Data Import and Cleaning](#2018-Data-Import-and-Cleaning)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Visualization](#Visualize-the-data)
